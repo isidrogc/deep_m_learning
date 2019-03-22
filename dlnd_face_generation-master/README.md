@@ -1,4 +1,4 @@
-# dlnd_face_generation
+# dlnd_face_generation-master
 
 Generative Adversarial Network (GAN) implementation  with TensorFlow
 
@@ -11,7 +11,7 @@ This kernel generates
 
 ## Usage
 
-run command while in dlnd_tv_script_generation directory
+While in dlnd_face_generation-master directory do run command
 
 ```
 jupyter notebook
