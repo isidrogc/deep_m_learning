@@ -5,7 +5,7 @@ Generative Adversarial Network (GAN) implementation  with TensorFlow
 This kernel generates 
 1. new images of human faces using  CelebFaces Attributes Dataset [(CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) [(CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) contains over 200,000 celebrity imagest.
 
-2.handwritten digits from [MNIST](http://yann.lecun.com/exdb/mnist/)
+2. handwritten digits from [MNIST](http://yann.lecun.com/exdb/mnist/)
 
 
 
